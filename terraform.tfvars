@@ -1,2 +1,0 @@
-softlayer_username="IBM1601592"
-softlayer_api_key="1da9b5ba6c57f62513fd5d751da5e92789da61187d7658b24c6826eeeece8bdc"
