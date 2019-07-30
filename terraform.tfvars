@@ -1,4 +1,3 @@
-ibmcloud_api_key="YL_ZNBOMu_pwIrNfWKUcYFBk7C54xAvXZSlOvVSLFSGZ"
 region="eu-gb"
 datacenter="lon04"
 machine_type="b3c.4x16"
